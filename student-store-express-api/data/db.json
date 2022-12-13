@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Meduim Black Howard Hoodie",
+      "category": "hoodie",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.H7kDFzLbNu7JOxeEf97h-QHaHa&pid=Api&P=0",
+      "source": "https://www.ratedhbcu.com/collections/black-power/products/black-power-howard-sweatshirt?variant=27679420350529",
+      "description": "Lightly used Howard Hoodie! Must go!.",
+      "price": 20.99
+    },
+    {
+      "id": 2,
+      "name": "Size 8 Emerald PLT dress",
+      "category": "dress",
+      "image": "https://i.ebayimg.com/images/g/qdMAAOSwaDRfzq05/s-l300.jpg",
+      "source": "https://www.ebay.co.uk/itm/254801475418",
+      "description": "Worn twice pretty little thing dress, Szie 8. Runs small!",
+      "price": 12.99
+    },
+    {
+      "id": 3,
+      "name": "Size 27 Skinny jeans",
+      "category": "pants",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.0b3SaFiSnzdq8pTThpkQIgHaHa&pid=Api&P=0",
+      "source": "https://www.aliexpress.us/item/2251832698828863.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US",
+      "description": "New jeans never worn!",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "name": "Large Gold Blouse",
+      "category": "shirts",
+      "image": "https://i.etsystatic.com/19290358/r/il/cef5dc/2579951912/il_1588xN.2579951912_q8tf.jpg",
+      "source": "https://www.etsy.com/uk/listing/884345409/vintage-gold-silk-blouse-charmeuse",
+      "description": "Barely worn silk blouse. Easily washed but must by air dried. Size large.",
+      "price": 18.99
+    },
+    {
+      "id": 5,
+      "name": "Size Small black Howard sweatpants",
+      "category": "pants",
+      "image": "https://i.etsystatic.com/16567431/r/il/2371cf/3174195480/il_1588xN.3174195480_f2l6.jpg",
+      "source": "https://www.etsy.com/listing/898889824/black-power-howard-sweatpants-licensed?click_key=7f0210368b5a45dee772ab1ba810357c77ce9726%3A898889824&click_sum=e6266c7e&ref=top_rated_narrowing_module_search-1",
+      "description": "Run big! Great for unisex!",
+      "price": 25
+    },
+    {
+      "id": 6,
+      "name": "Cream AirForce1 Size W10",
+      "category": "shoes",
+      "image": "https://i.etsystatic.com/33418611/r/il/8c5e85/4184333634/il_1588xN.4184333634_lhwe.jpg",
+      "source": "https://www.etsy.com/listing/1310073665/cream-air-force-1-custom-af1?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=airforce+1&ref=sr_gallery-1-2&pro=1&frs=1&edd=1&sts=1&organic_search_click=1",
+      "description": "Limited edition af1, didnt fit runs small!",
+      "price": 59.99
+    },
+    {
+      "id": 7,
+      "name": "Flannel Shirt Size Medium",
+      "category": "clothing",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.aUOzyp5QB3zPyXR-P37a2wHaH5&pid=Api&P=0",
+      "source": "https://www.alibaba.com/product-detail/wholesale-custom-red-plaids-thick-flannel_60602604111.html",
+      "description": "Lightly used flannel size medium , looking to get rid of!",
+      "price": 13
+    },
+    {
+      "id": 8,
+      "name": "Knitted Beanie",
+      "category": "clothing",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Blue_knit-cap_beanie_by_RobertLender.jpeg/640px-Blue_knit-cap_beanie_by_RobertLender.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue_knit-cap_beanie_by_RobertLender.jpeg",
+      "description": "Keeps your head absurdly warm while the rest of your body freezes.",
+      "price": 7
+    },
+    {
+      "id": 9,
+      "name": "Howard Sweater Size Xlarge",
+      "category": "clothing",
+      "image": "https://spy.com/wp-content/uploads/2021/09/Howard-University-Official-Est.-Date-Unisex-Adult-Crewneck-Sweatshirt.jpg?resize=554",
+      "source": "https://spy.com/articles/gear/style/the-best-hbcu-apparel-1202790440/amp/",
+      "description": "At $16.99, can you really afford NOT to buy this?",
+      "price": 16.99
+    },
+    {
+      "id": 10,
+      "name": "Used UGG slides size 7W",
+      "category": "clothing",
+      "image": "https://image.peltzshoes.com/images/products/1_2194214_ZM.jpg",
+      "source": "https://www.peltzshoes.com/product/womens-ugg-fluffita-slide-1113475-blk",
+      "description": "",
+      "price": 59.99
+    },
+    {
+      "id": 11,
+      "name": "Gray two piece set Size Large",
+      "category": "accessories",
+      "image": "https://i.etsystatic.com/27619256/r/il/c5def8/2978942157/il_1140xN.2978942157_6x4f.jpg",
+      "source": "https://www.etsy.com/listing/965117793/",
+      "description": "Ball out and get one for each finger!",
+      "price": 19.99
+    },
+    {
+      "id": 12,
+      "name": "Used Apple Watch S4",
+      "category": "accessories",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apple_Watch.jpg/800px-Apple_Watch.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Apple_Watch.jpg",
+      "description": " Series 4 used Apple Watch. Why check your phone all the time when you can check your watch all the time?",
+      "price": 199.99
+    },
+    {
+      "id": 13,
+      "name": "Black Nike Airmax Size 11M",
+      "category": "shoes",
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2020/02/06/5e3ccf69a1f56fe529b7e8c4/m_5e3ccf6e06d59c23301799a6.jpeg",
+      "source": "https://poshmark.com/listing/Used-Nike-Air-Max-Plus-SE-Black-Volt-Size-55Y-5e3ccf69a1f56fe529b7e8c4",
+      "description": "Compliment this accessory with a batter and some wire and you have yourself a portable charger right on your wrist!",
+      "price": 60
+    },
+    {
+      "id": 14,
+      "name": "Brown Mini Skirt Medium",
+      "category": "pants",
+      "image": "https://img.ltwebstatic.com/images3_pi/2021/08/10/1628590726f31d525a1832887089486df343807910_thumbnail_405x552.jpg",
+      "source": "https://us.shein.com/skirts-c-1732.html",
+      "description": "A wireless keyboard for your computer! Because who doesn't like walking around while they type up an essay.",
+      "price": 12.99
+    },
+    {
+      "id": 15,
+      "name": "Black Slacks Size Small",
+      "category": "pants",
+      "image": "https://cdn.shopify.com/s/files/1/0061/8627/0804/products/Archer-Pants-Black_2a641dd2-edaf-4eeb-9a1c-f5adc27b61e8_767x.progressive.jpg?v=1670391162",
+      "source": "https://us.princesspolly.com/products/archer-pants-black-eco-petite",
+      "description": "Check out this fancy Microsoft mouse that was in use right before the dot com bubble crash of the 2000s! It's a collectors' item that still works great. Brings back that 'on the verge of the world collapsing' feeling.",
+      "price": 19.98
+    },
+    {
+      "id": 16,
+      "name": "Polo Shirt Mens Medium",
+      "category": "shirt",
+      "image": "https://i.ebayimg.com/images/g/50cAAOSwymhgKS9f/s-l300.jpg",
+      "source": "https://www.ebay.com/itm/Mens-Polo-Shirt-Xl-Short-Sleeve-Used-Navy-/114684378358",
+      "description": "Have the internet mounted to your face, and get the added benefit of looking silly all the time!",
+      "price": 20.99
+    }
+  ],
+  "purchases": []
+}
