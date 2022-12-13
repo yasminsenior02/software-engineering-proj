@@ -183,6 +183,7 @@ export default function App() {
             subtotal={subtotal}
             // price={price}
           />
+
           <Navbar />
         </main>
       </BrowserRouter>
