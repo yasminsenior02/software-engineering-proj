@@ -12,6 +12,11 @@ import NotFound from "../NotFound/NotFound";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useParams } from "react-router-dom";
+import Login from "../Login";
+import Register from "../Register";
+import Reset from "../Reset";
+import Dashboard from "../dashboard";
+import ToLogin from "../ToLogin";
 
 // import ProductCard from "../ProductCard/ProductCard";
 
@@ -124,6 +129,11 @@ export default function App() {
       <BrowserRouter>
         <main>
           <Routes>
+            <Route exact path="/tologin" element={<ToLogin />} />
+            <Route exact path="/login" element={<Login />} />
+            <Route exact path="/register" element={<Register />} />
+            <Route exact path="/reset" element={<Reset />} />
+            <Route exact path="/dashboard" element={<Dashboard />} />
             <Route
               path="/"
               element={

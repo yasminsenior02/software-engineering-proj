@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="navbar">
       {/* <p>Navbar</p> */}
       <Logo />
-    
+
       <li>
         <Link to="/">Home</Link>
       </li>
@@ -21,7 +21,12 @@ export default function Navbar() {
       <li>
         <Link to="/#buy">Buy Now</Link>
       </li>
-     
+      <li>
+        <Link to="/register">Register</Link>
+      </li>
+      <li>
+        <Link to="/login">Log In</Link>
+      </li>
     </nav>
   );
 }
